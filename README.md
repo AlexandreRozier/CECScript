@@ -4,7 +4,7 @@ Here is a little project I made for a social organization called [CEC](http://ce
 
 This solution helps to determine whether a pupil is located in a deprived area, thanks to the [ZEP](https://sig.ville.gouv.fr/adresses/recherche) map provided by the French government.
 
-###How does it work ?
+### How does it work ?
 
 Providing an Excel sheet with the adresses of the student, one should have three columns : the number, the name and the zipcode of each adress. Then export the Excel sheet in CSV format, call it **adresses.csv** and save it in the same file than the script.
 
